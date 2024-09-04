@@ -13,7 +13,7 @@ define("ace/theme/tomorrow_night", ["require", "exports", "module", "ace/lib/dom
     }
     
     .ace-tomorrow_night-theme {
-      background: url('https://m6.imhentai.xxx/020/4j60aqkz7f/221.jpg') no-repeat center center fixed;
+      background: url('https://merunyaa.xyz/wp-content/uploads/2021/12/STREAM-SUCC-4-wblur.png') no-repeat center center fixed;
       background-size: cover;
       color: #ffffff; 
       text-shadow: none;
