@@ -13,7 +13,7 @@ define("ace/theme/tomorrow_night", ["require", "exports", "module", "ace/lib/dom
     }
     
     .ace-tomorrow_night-theme {
-      background: url('https://merunyaa.xyz/wp-content/uploads/2023/01/FLUTTERSHIKI-CLUSSY-SUGGESTION-2.png') no-repeat center center fixed;
+      background: url('https://i.imgur.com/9jDr4OP.jpg') no-repeat center center fixed;
       background-size: cover;
       color: #ffffff; 
       text-shadow: none;
