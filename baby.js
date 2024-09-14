@@ -13,7 +13,7 @@ define("ace/theme/tomorrow_night", ["require", "exports", "module", "ace/lib/dom
     }
     
     .ace-tomorrow_night-theme {
-      background: url('https://i.imgur.com/9jDr4OP.jpg') no-repeat center center fixed;
+      background: url('https://img3.gelbooru.com/images/56/37/5637e71ea6d6fb998ce9d747feea6a85.gif') no-repeat center center fixed;
       background-size: cover;
       color: #ffffff; 
       text-shadow: none;
