@@ -13,7 +13,7 @@ define("ace/theme/tomorrow_night", ["require", "exports", "module", "ace/lib/dom
     }
     
     .ace-tomorrow_night-theme {
-      background: url('https://img3.gelbooru.com/images/9b/56/9b56a0382f0d359d3fb74614f1e44b0f.gif') no-repeat center center fixed;
+      background: url('https://booru.allthefallen.moe/data/original/cd/3a/cd3abcc96474c5c97832d23c71f8b264.gif') no-repeat center center fixed;
       background-size: cover;
       color: #ffffff; 
       text-shadow: none;
