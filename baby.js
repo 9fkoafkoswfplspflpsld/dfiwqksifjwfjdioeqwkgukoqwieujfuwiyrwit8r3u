@@ -13,7 +13,7 @@ define("ace/theme/tomorrow_night", ["require", "exports", "module", "ace/lib/dom
     }
     
     .ace-tomorrow_night-theme {
-      background: url('https://img3.gelbooru.com/images/47/9b/479b38db5ce3b362301f6cea19f5f4ca.png') no-repeat center center fixed;
+      background: url('https://files.yande.re/jpeg/efd62ff0690ea5d5837db5b6efbdd472/yande.re%201137520%20cap%20dress%20elf%20kage_no_jitsuryokusha_ni_naritakute%21%20no_bra%20nopan%20pointy_ears%20shirt_lift%20summer_dress%20tagme.jpg') no-repeat center center fixed;
       background-size: cover;
       color: #ffffff; 
       text-shadow: none;
