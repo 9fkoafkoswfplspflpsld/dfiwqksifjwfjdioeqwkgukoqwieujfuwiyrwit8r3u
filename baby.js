@@ -13,7 +13,7 @@ define("ace/theme/tomorrow_night", ["require", "exports", "module", "ace/lib/dom
     }
     
     .ace-tomorrow_night-theme {
-      background: url('https://d.furaffinity.net/art/waspsalad/1714663203/1714663203.waspsalad_saleych.png') no-repeat center center fixed;
+      background: url('https://ndsc.b-cdn.net/avatars/274830ca-ce44-4c69-8389-1392f0fde361.webp') no-repeat center center fixed;
       background-size: cover;
       color: #ffffff; 
       text-shadow: none;
