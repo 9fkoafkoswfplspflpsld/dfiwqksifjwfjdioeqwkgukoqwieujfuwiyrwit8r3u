@@ -13,7 +13,7 @@ define("ace/theme/tomorrow_night", ["require", "exports", "module", "ace/lib/dom
     }
     
     .ace-tomorrow_night-theme {
-      background: url('https://ndsc.b-cdn.net/avatars/274830ca-ce44-4c69-8389-1392f0fde361.webp') no-repeat center center fixed;
+      background: url('https://ndsc.b-cdn.net/avatars/5e418e2d-3c29-4b3d-97e6-436fa35e28f4.webp') no-repeat center center fixed;
       background-size: cover;
       color: #ffffff; 
       text-shadow: none;
